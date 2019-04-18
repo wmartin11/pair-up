@@ -1,5 +1,5 @@
 # PairUp
-A scaffold for starting a new project using Angular 7. Review scripts in package.json to understand the scope of support for testing, bulding and documenting your work.
+A scaffold for starting a new project using Angular 7. Review scripts in package.json to understand the scope of support for testing, building and documenting your work.
 
 # Quickstart
 
