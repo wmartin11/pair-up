@@ -3,10 +3,10 @@ A scaffold for starting a new project using Angular 7. Review scripts in package
 
 # Quickstart
 
-If building fails with a reference to some node-sass binding problem try:
+If building fails with a reference to some node-sass binding problem:
  
- 1) dropping to a prompt at the project root and run "node -v" (node-sass seems to like version 8.x)
- 2) Once node -v shows ver 8 try "npm rebuild node-sass --force"
+ 1) try dropping to a prompt at the project root and run "node -v" (node-sass seems to like version 8.x)
+ 2) once node -v shows ver 8 try "npm rebuild node-sass --force"
  3) try building/starting/test again if it fails then it is something I have not seen
  4) if it works, you can try resetting your node version to its previous values (the node-sass binding will remain)
  5) confirm all is well
